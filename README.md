@@ -25,7 +25,7 @@ $ apt install nodejs-lts
 ## Install Python (includes Clang, a drop-in replacement for GCC C/C++ compiler)
 
 ```
-$ apt install Python
+$ apt install python
 ```
 
 You will need an editor to do your coding. You can use either nano or vim. Nano is installed by default. To install vim, do:
